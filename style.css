@@ -38,7 +38,7 @@ h1 {
   font-size: 30px;
   font-weight: bolder;  
   margin: 0 auto 10px;
-  padding: 3em 2em; 
+  padding: 1em 2em; 
   text-align: center; 
 }
 
@@ -93,11 +93,12 @@ h1 {
 /* Answer Div */
 #answers {
   margin: 60px 0;
-  background: #fff;
+  background: pink;
   border-radius: 6px;
-  color: #713e94;
-  transition: 10s linear;
+  color: #9fff;
+  transition: 3s linear;
   text-align: center;
+  border-style: dotted;
 }
 
 #answers p {
