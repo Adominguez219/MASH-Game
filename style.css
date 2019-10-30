@@ -1,8 +1,8 @@
 /* Body styling */
 body {
   background: pink;
-  color: #ffff;
-  font-family: Brushstroke, fantasy;
+  color: #713e94;
+  font-family: serif;
   font-size: 50px;
   font-weight: 300;
   line-height: 1.65em;
@@ -32,10 +32,10 @@ h1 {
   background: transparent;
   border: 3px solid #92a8d1;
   border-radius: 4px;
-  color: #fff;
+  color: #7fff;
   cursor: pointer; 
   display: block;
-  font-size: 80px;
+  font-size: 70px;
   font-weight: bolder;  
   margin: 0 auto 60px;
   padding: 1em 2em; 
@@ -63,7 +63,7 @@ h1 {
 }
 
 .choice-bucket input {
-  border: 1px solid: coral;
+  border: 1px solid: pink;
   border-radius: 6px;
   color: pink;
   font-size: 20px;
