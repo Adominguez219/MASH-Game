@@ -113,8 +113,8 @@ h1 {
 
 
 .hide {
-  opacity: 100;
-  height: 10;
+  opacity: 0;
+  height: 0;
 }
 
 .show {
