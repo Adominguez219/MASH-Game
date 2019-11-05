@@ -57,9 +57,9 @@ h1 {
 }
 
 .choice-bucket label {
-  font-size: 12px;
-  line-height: 15px;
-  margin: 2px 4%;
+  font-size: 20px;
+  line-height: 13px;
+  margin: 15px 28%;
 }
 
 .choice-bucket input {
@@ -76,7 +76,6 @@ h1 {
 
 .choice-bucket label ~ input {
   margin-top: 0;
-  color: red;
 }
 
 .highlight {
