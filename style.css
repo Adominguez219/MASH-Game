@@ -99,6 +99,7 @@ h1 {
   transition: 3s linear;
   text-align: center;
   border-style: dotted;
+  border-width: 5px;
 }
 
 #answers p {
